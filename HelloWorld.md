@@ -4,3 +4,4 @@
 ### another set of updates after the following steps
 * cloned to local repository from GitHub
 * created a branch for local edits
+* a third list line…
