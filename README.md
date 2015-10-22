@@ -1,4 +1,4 @@
 # datasciencecoursera
 # Github repository for Data Science Curriculum - JHU / Coursera
 
-Adding some content to illustrate git / github integration
+Adding some content to illustrate git / github integration from Windows 10 
